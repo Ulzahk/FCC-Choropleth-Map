@@ -1,3 +1,7 @@
 # FCC-Choropleth-Map
-## Objetive
-### User Requirements
+
+### Objetive 🎯
+
+### User Requirements 📜
+
+### Tools That Can Be Used 🛠
